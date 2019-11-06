@@ -1,2 +1,2 @@
 # musica
-An Music steaming service.
+A Music steaming service.
