@@ -1,4 +1,4 @@
-# musica - an amharic music streaming api
+# musica - a amharic music streaming api
 This is an online music streaming API that will mainly have a collection of licensed amharic songs.
 
 ## Why Musica?
